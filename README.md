@@ -1,4 +1,4 @@
-## DMNIL 2025 [[paper](https://arxiv.org/abs/2502.11381)][[model](#pre-trained-checkpoints)] [[Cite](#Citation)]
+## SpikeViMFormer 2025
 <p align="center">
   <p align="left">
     <img src="access/1.png" alt="Description of the image" style="width:80%;">
@@ -18,7 +18,7 @@
     <img src="DMNIL/figure/1_01.png" alt="Description of the image" style="width:100%;">
   <p align="center">
 
-This repository is the official implementation of the paper "Without Paired Labeled Data: End-to-End Self-Supervised Method for Drone-View Geo-Localization" (https://arxiv.org/abs/2502.11381). 
+This repository is the official implementation of the paper "Efficient Spike-driven Transformer for High-performance Drone-View Geo-Localization". 
 The current version of the repository can cover the experiments reported in the paper, for researchers in time efficiency. And we will also update this repository for better understanding and clarity.
 
 ## <a id="table-of-contents"></a> 📚 Table of contents
