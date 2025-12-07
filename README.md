@@ -1,10 +1,10 @@
 ## DMNIL 2025 [[paper](https://arxiv.org/abs/2502.11381)][[model](#pre-trained-checkpoints)] [[Cite](#Citation)]
 <p align="center">
   <p align="left">
-    <img src="access/1.png" alt="Description of the image" style="width:50%;">
+    <img src="access/1.png" alt="Description of the image" style="width:80%;">
   <p align="left">
-<h1 align="center">End-to-End Self-Supervised Method for Drone-View Geo-Localization</h1>
-<h3 align="center"><strong>Zhongwei Chen</strong><sup>1,2,3</sup>, <strong>Zhaoxu Yang*</strong><sup>1,2,3</sup>, <strong>Haijun Rong*</strong><sup>1,2,3</sup>, <strong>Guoqi Li</strong><sup>4,5,6</sup></h3>
+<h1 align="center">Efficient Spike-driven Transformer for High-performance Drone-View Geo-Localization</h1>
+<h3 align="center"><strong>Zhongwei Chen</strong><sup>1,2,3</sup>, <strong>Haijun Rong</strong><sup>1,2,3</sup>, <strong>Zhaoxu Yang*</strong><sup>1,2,3</sup>, <strong>Guoqi Li*</strong><sup>4,5,6</sup></h3>
 
 <div align="center">
   <sup>1</sup>School of Aerospace Engineering, Xi'an Jiaotong University China<br>
