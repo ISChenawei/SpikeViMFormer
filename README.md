@@ -1,6 +1,7 @@
 ## SpikeViMFormer: The code will be released soon for public access ！！！🙏 .
 ## SpikeViMFormer 2025 [[paper]()][[model](#pre-trained-checkpoints)] [[Cite](#Citation)]
-This repository is the official implementation of the paper "xxxxx" (xxxxx). 
+This repository is the official implementation of the paper "Efficient Spike-driven Transformer for High-performance
+Drone-View Geo-Localization". 
 The current version of the repository can cover the experiments reported in the paper, for researchers in time efficiency. And we will also update this repository for better understanding and clarity.
 
 ## <a id="table-of-contents"></a> 📚 Table of contents
