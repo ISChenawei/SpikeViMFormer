@@ -43,26 +43,57 @@ The current version of the repository can cover the experiments reported in the 
 ## <a id="dataset-access"></a> 💾 Dataset Access
 Please prepare [University-1652](https://github.com/layumi/University1652-Baseline), [SUES-200](https://github.com/Reza-Zhu/SUES-200-Benchmark)
 
+## <a id="dataset-structure"></a> 📁 Dataset Structure
+
+### University-1652 Dataset Directory Structure
+```
+├── University-1652/
+│   ├── train/
+│       ├── drone/                   /* drone-view training images 
+│           ├── 0001
+|           ├── 0002
+|           ...
+│       ├── satellite/               /* satellite-view training images       
+│   ├── test/
+│       ├── query_drone/  
+│       ├── gallery_drone/  
+│       ├── query_satellite/  
+│       ├── gallery_satellite/ 
+```
+### SUES-200 Dataset Directory Structure
+```
+├─ SUES-200
+  ├── Training
+    ├── 150/
+    ├── 200/
+    ├── 250/
+    └── 300/
+  ├── Testing
+    ├── 150/
+    ├── 200/ 
+    ├── 250/	
+    └── 300/
+```
+
 ## <a id="train-and-test"></a> 🚀 Train and Test
 
-2. Training and Testing
+For University-1652 Dataset
+```
+Train: run train_university.py, with --only_test = False.
 
-python train.py --only_test False
+Test: run train_university.py, with --only_test = True, and choose the model in --ckpt_path.
+```
+For SUES-200 Dataset
+```
+Train: run train_SUES-200.py, with --only_test = False.
 
-python train.py --only_test True --ckpt_path /path/to/your/checkpoint.pth
+Test: run train_SUES-200.py, with --only_test = True, and choose the model in --ckpt_path.
 ```
-#### SUES-200 Dataset Configuration
-```
-The remaining code is scheduled to be updated in the near future.
-```
-#### DenseUAV Dataset Configuration
-```
-The remaining code is scheduled to be updated in the near future.
-```
+
 ## <a id="pre-trained-checkpoints"></a> 🤗 Pre-trained Checkpoints
 We provide the trained models in the link below:
 
-https://pan.baidu.com/s/151fhP4kwW4rTXqjRRlSM6Q 提取码: sm8s 
+Link: [https://pan.baidu.com/s/1YPEV27tnadqCZBRCscTMTA : 6666]
 
 We will update this repository for better clarity ASAP, current version is for quick research for researchers interested in the cross-view geo-localization task.
 
@@ -82,4 +113,4 @@ This project is licensed under the [Apache 2.0 license](LICENSE).
 }
 ```
 ## <a id="acknowledgments"></a> 🙏 Acknowledgments
-This repository is built using the DAC [https://github.com/SummerpanKing/DAC], Meta-SpikeFormer[https://github.com/BICLab/Spike-Driven-Transformer-V2], E-SpikeFormer [https://github.com/BICLab/Spike-Driven-Transformer-V3] repositories.
+This repository is built using the [DAC]([https://github.com/SummerpanKing/DAC), [Meta-SpikeFormer](https://github.com/BICLab/Spike-Driven-Transformer-V2), [E-SpikeFormer](https://github.com/BICLab/Spike-Driven-Transformer-V3) repositories.
