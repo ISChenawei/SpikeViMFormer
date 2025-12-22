@@ -15,7 +15,7 @@
   <sup>6</sup>Peng Cheng Laboratory
 </div>
   <p align="center">
-    <img src="DMNIL/figure/1_01.png" alt="Description of the image" style="width:100%;">
+    <img src="access/2.png" alt="Description of the image" style="width:100%;">
   <p align="center">
 
 This repository is the official implementation of the paper "Efficient Spike-driven Transformer for High-performance Drone-View Geo-Localization". 
