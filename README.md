@@ -34,7 +34,7 @@ The current version of the repository can cover the experiments reported in the 
 - [Citation](#citation)
 
 ## <a id="dataset-access"></a> 💾 Dataset Access
-Please prepare [University-1652](https://github.com/layumi/University1652-Baseline), [SUES-200](https://github.com/Reza-Zhu/SUES-200-Benchmark), [DenseUAV](https://github.com/Dmmm1997/DenseUAV)
+Please prepare [University-1652](https://github.com/layumi/University1652-Baseline), [SUES-200](https://github.com/Reza-Zhu/SUES-200-Benchmark)
 ## <a id="dataset-structure"></a> 📁 Dataset Process
 
 ### Process University-1652 Dataset  
