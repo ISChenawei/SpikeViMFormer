@@ -113,4 +113,4 @@ This project is licensed under the [Apache 2.0 license](LICENSE).
 }
 ```
 ## <a id="acknowledgments"></a> 🙏 Acknowledgments
-This repository is built using the [DAC]([https://github.com/SummerpanKing/DAC), [Meta-SpikeFormer](https://github.com/BICLab/Spike-Driven-Transformer-V2), [E-SpikeFormer](https://github.com/BICLab/Spike-Driven-Transformer-V3) repositories.
+This repository is built using the [DAC](https://github.com/SummerpanKing/DAC), [Meta-SpikeFormer](https://github.com/BICLab/Spike-Driven-Transformer-V2), [E-SpikeFormer](https://github.com/BICLab/Spike-Driven-Transformer-V3) repositories.
