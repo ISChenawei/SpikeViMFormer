@@ -105,10 +105,10 @@ This project is licensed under the [Apache 2.0 license](LICENSE).
  If you find this code useful for your research, please cite our papers.
 
 ```bibtex
-@article{chen2025without,
-  title={Without Paired Labeled Data: End-to-End Self-Supervised Method for Drone-View Geo-Localization},
+@article{chen2025efficient,
+  title={Efficient Spike-driven Transformer for High-performance Drone-View Geo-Localization},
   author={Chen, Zhongwei, Yang, Zhao-Xu, Rong, Hai-Jun, Guoqi Li},
-  journal={arXiv preprint arXiv:2502.11381},
+  journal={arXiv preprint arXiv:2512.11381},
   year={2025}
 }
 ```
