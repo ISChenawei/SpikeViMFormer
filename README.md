@@ -1,7 +1,7 @@
 ## SpikeViMFormer 2025
 <p align="center">
   <p align="left">
-    <img src="access/1.png" alt="Description of the image" style="width:80%;">
+    <img src="access/1.svg" alt="Description of the image" style="width:80%;">
   <p align="left">
 <h1 align="center">Efficient Spike-driven Transformer for High-performance Drone-View Geo-Localization</h1>
 <h3 align="center"><strong>Zhongwei Chen</strong><sup>1,2,3</sup>, <strong>Haijun Rong</strong><sup>1,2,3</sup>, <strong>Zhaoxu Yang*</strong><sup>1,2,3</sup>, <strong>Guoqi Li*</strong><sup>4,5,6</sup></h3>
