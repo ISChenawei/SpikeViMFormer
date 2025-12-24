@@ -108,7 +108,7 @@ This project is licensed under the [Apache 2.0 license](LICENSE).
 @article{chen2025efficient,
   title={Efficient Spike-driven Transformer for High-performance Drone-View Geo-Localization},
   author={Chen, Zhongwei, Yang, Zhao-Xu, Rong, Hai-Jun, Guoqi Li},
-  journal={arXiv preprint arXiv:2512.11381},
+  journal={arXiv preprint arXiv:2512.19365},
   year={2025}
 }
 ```
