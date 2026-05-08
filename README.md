@@ -93,7 +93,9 @@ Test: run train_SUES-200.py, with --only_test = True, and choose the model in --
 ## <a id="pre-trained-checkpoints"></a> 🤗 Pre-trained Checkpoints
 We provide the trained models in the link below:
 
-Link: [https://pan.baidu.com/s/1YPEV27tnadqCZBRCscTMTA : 6666]
+Baidu Netdisk Link: [] 提取码: 
+
+Google Drive  Link: [https://drive.google.com/drive/folders/1l_cMkAlHdEytL7SCkZkynEiIRTKvcNBQ?usp=drive_link]
 
 We will update this repository for better clarity ASAP, current version is for quick research for researchers interested in the cross-view geo-localization task.
 
