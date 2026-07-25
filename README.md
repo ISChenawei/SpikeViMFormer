@@ -23,6 +23,10 @@
 This repository is the official implementation of the paper "Efficient Spike-driven Transformer for High-performance Drone-View Geo-Localization". 
 The current version of the repository can cover the experiments reported in the paper, for researchers in time efficiency. And we will also update this repository for better understanding and clarity.
 
+## <a id="news"></a> 🔥 News
+- [Jul  19, 2025]: SpikeViMFormer is accepted by TCSVT'26 🎉
+---
+
 ## <a id="table-of-contents"></a> 📚 Table of contents
 
 - [TODOs](#todos)
