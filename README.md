@@ -1,5 +1,9 @@
 ## SpikeViMFormer 2025 [[Paper](https://arxiv.org/pdf/2512.19365)] [[Models](#pre-trained-checkpoints)] [[Cite](#citation)]
 
+<p align="left">
+  <img src="access/1.svg" alt="SpikeViMFormer overview" style="width:80%;">
+</p>
+
 <h1 align="center">Efficient Spike-driven Transformer for High-performance Drone-View Geo-Localization</h1>
 
 <h3 align="center">
@@ -18,6 +22,12 @@
   <sup>6</sup>Peng Cheng Laboratory<br>
   <sup>*</sup>Corresponding authors
 </div>
+
+<p align="center">
+  <img src="access/2.svg" alt="SpikeViMFormer framework" style="width:100%;">
+  <img src="access/3.svg" alt="SpikeViMFormer results" style="width:100%;">
+  <img src="access/4.svg" alt="SpikeViMFormer visualization" style="width:100%;">
+</p>
 
 This repository provides the official PyTorch implementation of **Efficient Spike-driven
 Transformer for High-performance Drone-View Geo-Localization**. SpikeViMFormer is a
