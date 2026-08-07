@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "spikevimformer"
+version = "1.0.0"
+description = "Spike-driven Transformer for drone-view geo-localization"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {file = "LICENSE"}
+dependencies = [
+  "numpy>=1.24",
+  "Pillow>=10.0",
+  "torch>=2.2",
+  "torchvision>=0.17",
+  "tqdm>=4.66",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0", "ruff>=0.6"]
+
+[project.scripts]
+spikevimformer-train = "scripts.train:main"
+spikevimformer-evaluate = "scripts.evaluate:main"
+
+[tool.setuptools.packages.find]
+include = ["spikevimformer*", "scripts*"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
