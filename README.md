@@ -23,6 +23,15 @@
   <sup>*</sup>Corresponding authors
 </div>
 
+<div align="center">
+  <p>
+    <a href="https://ieeexplore.ieee.org/abstract/document/11622533/"><img src="https://img.shields.io/badge/Paper-IEEE-00629B?logo=ieee&logoColor=white" alt="IEEE paper"></a>
+    <a href="https://arxiv.org/abs/2512.19365"><img src="https://img.shields.io/badge/arXiv-2512.19365-B31B1B?logo=arxiv&logoColor=white" alt="arXiv paper"></a>
+    <a href="#pre-trained-checkpoints"><img src="https://img.shields.io/badge/Model-Download-2E8B57" alt="Download model"></a>
+    <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-D22128" alt="Apache 2.0 license"></a>
+  </p>
+</div>
+
 <p align="center">
   <img src="access/2.svg" alt="SpikeViMFormer framework" style="width:100%;">
   <img src="access/3.svg" alt="SpikeViMFormer results" style="width:100%;">
