@@ -67,9 +67,6 @@ The implementation supports the experiments on
 
 ## <a id="highlights"></a>✨ Highlights
 
-- A shared dual-stream spike-driven Transformer for drone and satellite imagery.
-- Direct initialization from the official E-SpikeFormer 10M and 19M ImageNet checkpoints.
-- A self-contained Normalized Integer Leaky Integrate-and-Fire (NI-LIF) implementation.
 - SSA for preserving critical local information under sparse spiking activation.
 - SHS for capturing long-range dependencies with linear sequence complexity.
 - HRAL for supervising the backbone with current-batch and historical neighborhood context.
