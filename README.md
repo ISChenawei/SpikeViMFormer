@@ -32,12 +32,16 @@
   </p>
 </div>
 
+## <a id="motivation"></a>💡 Motivation
 <p align="center">
   <img src="access/2.svg" alt="SpikeViMFormer framework" style="width:100%;">
   <img src="access/3.svg" alt="SpikeViMFormer results" style="width:100%;">
-  <img src="access/4.svg" alt="SpikeViMFormer visualization" style="width:100%;">
 </p>
 
+## <a id="method-overview"></a>🧩 Method Overview
+<p align="center">
+  <img src="access/4.svg" alt="SpikeViMFormer visualization" style="width:100%;">
+</p>
 This repository provides the official PyTorch implementation of **Efficient Spike-driven
 Transformer for High-performance Drone-View Geo-Localization**. SpikeViMFormer is a
 hardware-friendly spiking neural network framework for drone-view geo-localization (DVGL).
@@ -57,7 +61,8 @@ The implementation supports the experiments on
 ---
 
 ## <a id="table-of-contents"></a>📚 Table of Contents
-
+- [Motivation](#motivation)
+- [Method Overview](#method-overview)
 - [Highlights](#highlights)
 - [TODOs](#todos)
 - [Installation](#installation)
