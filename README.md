@@ -421,10 +421,15 @@ for making their excellent work publicly available.
 If you find this work useful in your research, please cite:
 
 ```bibtex
-@article{chen2025efficient,
-  title   = {Efficient Spike-driven Transformer for High-performance Drone-View Geo-Localization},
-  author  = {Chen, Zhongwei and Rong, Hai-Jun and Yang, Zhao-Xu and Li, Guoqi},
-  journal = {arXiv preprint arXiv:2512.19365},
-  year    = {2025}
-}
+@ARTICLE{11622533,
+  author={Chen, Zhongwei and Rong, Hai-Jun and Xu, Longrun and Lu, Jie and Zou, Zhuo and Yang, Zhao-Xu and Li, Guoqi},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={Efficient Spike-driven Transformer for High-performance Drone-View Geo-Localization}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Drones;Satellites;Educational institutions;Training;Modeling;Learning (artificial intelligence);Location awareness;Distance measurement;Neurons;Visualization;drone-view geo-localization;artificial neural networks;spiking neural network;re-ranking alignment},
+  doi={10.1109/TCSVT.2026.3716422}}
+
 ```
