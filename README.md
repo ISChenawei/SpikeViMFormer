@@ -1,7 +1,7 @@
 ## SpikeViMFormer 2025 [[Paper](https://arxiv.org/pdf/2512.19365)] [[Models](#pre-trained-checkpoints)] [[Cite](#citation)]
 
 <p align="left">
-  <img src="access/1.svg" alt="SpikeViMFormer overview" style="width:80%;">
+  <img src="access/1.png" alt="SpikeViMFormer overview" style="width:80%;">
 </p>
 
 <h1 align="center">Efficient Spike-driven Transformer for High-performance Drone-View Geo-Localization</h1>
