@@ -5,21 +5,23 @@
 </p>
 
 <h1 align="center">Efficient Spike-driven Transformer for High-performance Drone-View Geo-Localization</h1>
-
+ and  and 
 <h3 align="center">
-  <strong>Zhongwei Chen</strong><sup>1,2,3</sup>,
-  <strong>Hai-Jun Rong</strong><sup>1,2,3</sup>,
-  <strong>Zhao-Xu Yang*</strong><sup>1,2,3</sup>,
-  <strong>Guoqi Li*</strong><sup>4,5,6</sup>
+  <strong>Zhongwei Chen</strong><sup>1,2</sup>,
+  <strong>Hai-Jun Rong</strong><sup>1,2</sup>,
+  <strong>Xu, Longrun</strong><sup>3</sup>,
+  <strong>Lu, Jie</strong><sup>3</sup>,
+  <strong>Zou, Zhuo</strong><sup>3</sup>,
+  <strong>Zhao-Xu Yang*</strong><sup>1,2</sup>,
+  <strong>Guoqi Li*</strong><sup>4,5</sup>
 </h3>
 
 <div align="center">
   <sup>1</sup>School of Aerospace Engineering, Xi'an Jiaotong University, China<br>
   <sup>2</sup>State Key Laboratory for Strength and Vibration of Mechanical Structures<br>
-  <sup>3</sup>Shaanxi Key Laboratory of Environment and Control for Flight Vehicle<br>
+  <sup>3</sup>College of Future Information Technology, Fudan University, China
   <sup>4</sup>Institute of Automation, Chinese Academy of Sciences, China<br>
-  <sup>5</sup>School of Artificial Intelligence, University of Chinese Academy of Sciences<br>
-  <sup>6</sup>Peng Cheng Laboratory<br>
+  <sup>5</sup>Peng Cheng Laboratory<br>
   <sup>*</sup>Corresponding authors
 </div>
 
