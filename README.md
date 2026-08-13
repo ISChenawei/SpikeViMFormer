@@ -58,7 +58,7 @@ The implementation supports the experiments on
 ## <a id="news"></a>🔥 News
 
 - **July 19, 2026:** SpikeViMFormer was accepted by IEEE TCSVT 2026. 🎉
-- **2026:** Training code, evaluation code, and pre-trained checkpoints were released.
+- **July 11, 2026:** Training code, evaluation code, and pre-trained checkpoints were released.
 
 ---
 
