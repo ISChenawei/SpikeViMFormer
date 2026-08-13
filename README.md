@@ -19,7 +19,7 @@
 <div align="center">
   <sup>1</sup>School of Aerospace Engineering, Xi'an Jiaotong University, China<br>
   <sup>2</sup>State Key Laboratory for Strength and Vibration of Mechanical Structures<br>
-  <sup>3</sup>College of Future Information Technology, Fudan University, China
+  <sup>3</sup>College of Future Information Technology, Fudan University, China<br>
   <sup>4</sup>Institute of Automation, Chinese Academy of Sciences, China<br>
   <sup>5</sup>Peng Cheng Laboratory<br>
   <sup>*</sup>Corresponding authors
