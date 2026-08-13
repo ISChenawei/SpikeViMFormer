@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Efficient Spike-driven Transformer for High-performance Drone-View Geo-Localization</h1>
- and  and 
+
 <h3 align="center">
   <strong>Zhongwei Chen</strong><sup>1,2</sup>,
   <strong>Hai-Jun Rong</strong><sup>1,2</sup>,
